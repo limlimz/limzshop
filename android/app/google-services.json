@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "985430080514",
+    "project_id": "shotcaller-9f9e1",
+    "storage_bucket": "shotcaller-9f9e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985430080514:android:4a2aadd88878982bab7b1b",
+        "android_client_info": {
+          "package_name": "com.limzshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985430080514-vmq5iu6dfsihpn8mns52boscsfqoa8kv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.limzshop",
+            "certificate_hash": "d653affa0eb95612462ca9d7cc9ee1393d908bac"
+          }
+        },
+        {
+          "client_id": "985430080514-tegq9gujd62th898ijcbm2vid3mqe403.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByLEqhQyvucI_qeuVBGuyP8yIk1qnC5Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985430080514-tegq9gujd62th898ijcbm2vid3mqe403.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
